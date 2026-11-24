@@ -52,7 +52,7 @@ flowchart LR
 
 ## Setup
 
-1. Clone the repository: `git clone [your repo link]`
+1. Clone the repository: `git clone [(https://github.com/samridhi-narwade/iot-telehealth-ecg-monitor)]`
 2. Copy `secrets_example.h` to `secrets.h` and enter your Wi-Fi name, password and ntfy topic.
 3. Open the sketch in Arduino IDE, select your ESP32 board and upload.
 4. Subscribe to your ntfy topic in the ntfy app on your phone.
